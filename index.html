@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="lib/Semantics/semantic.min.css"/>
+        <script src="lib/ejs.min.js"></script>
+        <script src="data.json"></script>
+        <style>
+            .item .content .label{
+                margin-top:5px;
+            }
+            .ui.container > .ui.header {
+                margin-top:50px;
+            }
+            .footer{
+                padding:30px;
+                text-align: center;
+            }
+        </style>
+        <title>FDHUM 110</title>
+    </head>
+    <body>
+        <script id="weeks-template" type="text/x-ejs-template">
+        <% weeks.forEach(week => { %>
+            <div>
+                <h1 class="ui week teal header">
+                    <div class="content">
+                        <%= week.name %>
+                    </div>
+                    <% if(week.link){ %>
+                        <a target="_blank" href="<%= week.link %>">
+                            <i class="info circle link icon"></i>
+                        </a>
+                    <% } %> 
+                </h1>
+                
+                <%- include('assignments',week.assignments) %>
+                <% if(week.sections){ %>
+                    <div class="ui grid">
+                        <div class="three column row">
+                        <% week.sections.forEach(section => { %>
+                            <div class="column">
+                                <h3 class="ui block header"><%= section.name %></h3> 
+                                <%- include('assignments',section.assignments) %>
+                            </div>
+                        <% }) %>
+                        </div>
+                    </div>
+                <% } %>
+            </div>
+            <div class="ui divider"></div>
+        <% }) %>
+        </script>
+        <script id="assignments-template" type="text/x-ejs-template">
+        <div class="ui selection list">
+            <% assignments.forEach(assignment => { %>
+            <div class="item">
+
+                    <i class="blue circle outline icon"></i>
+
+                <div class="content">
+                    <a target="_blank" href="<%= assignment.link %>">
+                        <div class="header">
+                            <%= assignment.name %>
+                            <% if(assignment.items){ %>
+                                <i class="info circle link icon"></i>
+                            <% } %>
+                        </div>
+                    </a>
+                    <% if(assignment.items){ %>
+                    <div class="content">
+                        <% assignment.items.forEach(item =>{ %>
+                            <a target="_blank" class="ui tiny blue basic label" href="<%= item.link %>">
+                                <i class="<%= ({
+                                    "Reading":"book",
+                                    "Quiz":"edit",
+                                    "Discussion":"comments",
+                                    "Assignment":"pencil alternate",
+                                    "Film":"film"
+                                })[item.type]||"file" %> icon"></i>
+                                <%= item.type %>
+                            </a>
+                        <% }) %>
+                    </div>
+                    <% } %>
+                </div>
+            </div>
+            <% }) %>
+        </div>
+        </script>
+        <div class="ui container">
+            <h1 class="ui center aligned teal header">
+                FDHUM 110
+                <div class="sub header">Foundations of Humanities</div>
+            </h1>
+            <div id="output"></div>
+            <p class="footer">Found a bug? <a href="">report it here</a></p>
+        </div>
+        <script>
+            var WeeksTemplate = ejs.compile(document.getElementById('weeks-template').innerHTML,{client:true})
+            var AssignmentsTemplate = ejs.compile(document.getElementById('assignments-template').innerHTML,{client:true})
+            document.getElementById('output').innerHTML = WeeksTemplate({weeks:data},null,(path,data) => {
+                if(path == 'assignments'){
+                    return AssignmentsTemplate({assignments: data})
+                }
+            })
+        </script>
+    </body>
+</html>

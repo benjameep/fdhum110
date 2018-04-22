@@ -1,0 +1,239 @@
+var data = [{
+    "name": "Welcome",
+    "assignments": [{
+        "name": "Syllabus",
+        "link": "https://content.byui.edu/file/a4a3feba-39b5-46d0-91c2-6e7d9b83e220/22/fdhum110syllabus.html",
+        "type": "Link"
+    }, {
+        "name": "Schedule",
+        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/Schedule.html",
+        "type": "File"
+    }, {
+        "name": "University Policies",
+        "link": "https://content.byui.edu/integ/gen/d24f576f-d34b-47be-a466-d00bd4792fb6/0/universitypolicies.html",
+        "type": "Link"
+    }, {
+        "name": "Online Support Center",
+        "link": "https://www.byui.edu/online/online-support-center",
+        "type": "Link"
+    }, {
+        "name": "How to Understand Due Dates",
+        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/How%20to%20Understand%20Due%20Dates.html",
+        "type": "File"
+    }]
+}, {
+    "name": "Lesson 01",
+    "sections": [{
+        "name": "Prepare",
+        "assignments": [{
+            "name": "The Call to Beauty",
+            "items": [{
+                "lesson": "L01",
+                "type": "Film",
+                "name": "The Call to Beauty",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Film%20-%20The%20Call%20to%20Beauty.html"
+            }, {
+                "lesson": "L01",
+                "type": "Quiz",
+                "name": "The Call to Beauty",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-158227"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Quiz%20-%20The%20Call%20to%20Beauty%20-%20Instructions.html"
+        }, {
+            "name": "We Seek After These Things",
+            "items": [{
+                "lesson": "L01",
+                "type": "Reading",
+                "name": "We Seek After These Things",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Reading%20-%20We%20Seek%20After%20These%20Things.html"
+            }, {
+                "lesson": "L01",
+                "type": "Quiz",
+                "name": "We Seek After These Things",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-158280"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Quiz%20-%20We%20Seek%20After%20These%20Things%20-%20Instructions.html"
+        }]
+    }, {
+        "name": "Teach One Another",
+        "assignments": [{
+            "name": "We Seek After These Things",
+            "items": [{
+                "lesson": "L01",
+                "type": "Discussion",
+                "name": "We Seek After These Things",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_produ-450742"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Discussion%20-%20We%20Seek%20After%20These%20Things%20-%20Instructions.html"
+        }]
+    }, {
+        "name": "Ponder & Prove",
+        "assignments": [{
+            "name": "Syllabus/Schedule",
+            "items": [{
+                "lesson": "L01",
+                "type": "Quiz",
+                "name": "Syllabus/Schedule",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-158313"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Quiz%20-%20Syllabus&Schedule%20-%20Instructions.html"
+        }, {
+            "name": "Course Introduction",
+            "items": [{
+                "lesson": "L01",
+                "type": "Preparation and Participation",
+                "name": "Course Introduction",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-158314"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Preparation%20&%20Participation%20-%20Course%20Introduction%20-%20Instructions.html"
+        }]
+    }],
+    "assignments": [{
+        "name": "Dr. Anderson Article on Nudity vs. Pornography",
+        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/Course%20Files/Dr.%20Anderson%20Article%20on%20Nudity%20vs.%20Ponography.pdf",
+        "type": "File"
+    }, {
+        "name": "Questions and Conversations",
+        "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247389",
+        "type": "Questions and Conversations"
+    }],
+    "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Overview%20Course%20Introduction.html"
+}, {
+    "name": "Lesson 02",
+    "sections": [{
+        "name": "Prepare",
+        "assignments": [{
+            "name": "Music and Architecture",
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20Music%20and%20Architecture.html",
+            "type": "Film"
+        }, {
+            "name": "Elements of Architecture",
+            "items": [{
+                "lesson": "L02",
+                "type": "Reading",
+                "name": "Elements of Architecture",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Reading%20-%20Elements%20of%20Architecture.html"
+            }, {
+                "lesson": "L02",
+                "type": "Quiz",
+                "name": "Elements of Architecture",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161471"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Elements%20of%20Architecture%20-%20Instructions.html"
+        }, {
+            "name": "Musical Instruments and Ensembles",
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20Musical%20Instruments%20and%20Ensembles.html",
+            "type": "Film"
+        }, {
+            "name": "Musical Instruments",
+            "items": [{
+                "lesson": "L02",
+                "type": "Reading with Film",
+                "name": "Musical Instruments",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Reading%20with%20Film%20-%20Musical%20Instruments.html"
+            }, {
+                "lesson": "L02",
+                "type": "Quiz",
+                "name": "Musical Instruments",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161475"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Musical%20Instruments%20-%20Instructions.html"
+        }, {
+            "name": "The Elements of Music",
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20The%20Elements%20of%20Music.html",
+            "type": "Films"
+        }]
+    }, {
+        "name": "Teach One Another",
+        "assignments": [{
+            "name": "Music and Architecture",
+            "items": [{
+                "lesson": "L02",
+                "type": "Discussion",
+                "name": "Music and Architecture",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_produ-450743"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Discussion%20-%20Music%20and%20Architecture%20-%20Instructions.html"
+        }]
+    }, {
+        "name": "Ponder & Prove",
+        "assignments": [{
+            "name": "Observe Music",
+            "items": [{
+                "lesson": "L02",
+                "type": "Assignment",
+                "name": "Observe Music",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=dropbox&rCode=byui_produ-1007550"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Assignment%20-%20Observe%20Music%20-%20Instructions.html"
+        }, {
+            "name": "FDHUM 110 Plagiarism",
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/FDHUM%20110%20Plagiarism.html",
+            "type": "File"
+        }, {
+            "name": "Preparation and Participation",
+            "items": [{
+                "lesson": "L02",
+                "type": "Quiz",
+                "name": "Preparation and Participation",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-149257"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Preparation%20&%20Participation%20-%20Instructions.html"
+        }]
+    }],
+    "assignments": [{
+        "name": "Questions and Conversations",
+        "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247390",
+        "type": "Questions and Conversations"
+    }],
+    "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Overview%20Music%20and%20Architecture.html"
+}, {
+    "name": "Resources",
+    "assignments": [{
+        "name": "Macbeth.pdf",
+        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L07%20Macbeth.pdf.html",
+        "type": "File"
+    }, {
+        "name": "Orientation to Online Learning",
+        "link": "https://content.byui.edu/integ/gen/d24f576f-d34b-47be-a466-d00bd4792fb6/0/orientation.html",
+        "type": "Link"
+    }, {
+        "name": "Library Research Guides",
+        "link": "http://libguides.byui.edu/",
+        "type": "Link"
+    }, {
+        "name": "Academic Support Center",
+        "link": "https://www.byui.edu/academic-support-centers",
+        "type": "Link"
+    }, {
+        "name": "Foundations Presentation",
+        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/Foundations%20Presentation.html",
+        "type": "File"
+    }, {
+        "name": "FDHUM 110 Plagiarism",
+        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/FDHUM%20110%20Plagiarism.html",
+        "type": "File"
+    }, {
+        "name": "Copyright and Source Info",
+        "link": "https://docs.google.com/spreadsheets/d/13wnO6azDpIPaLeEdWi2RAQin2sYFicyLDSIrQVZt_mA/edit?usp=sharing",
+        "type": "Link"
+    }, {
+        "name": "Student Help Guide: Getting Started with Zoom",
+        "link": "http://byu-idaho.screenstepslive.com/s/16998/m/65435/l/778026",
+        "type": "Link"
+    }]
+}]
