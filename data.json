@@ -100,7 +100,6 @@ var data = [{
         "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/Course%20Files/Dr.%20Anderson%20Article%20on%20Nudity%20vs.%20Ponography.pdf",
         "type": "File"
     }, {
-        "name": "Questions and Conversations",
         "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247389",
         "type": "Questions and Conversations"
     }],
@@ -111,8 +110,13 @@ var data = [{
         "name": "Prepare",
         "assignments": [{
             "name": "Music and Architecture",
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20Music%20and%20Architecture.html",
-            "type": "Film"
+            "items": [{
+                "lesson": "L02",
+                "type": "Film",
+                "name": "Music and Architecture",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20Music%20and%20Architecture.html"
+            }]
         }, {
             "name": "Elements of Architecture",
             "items": [{
@@ -131,8 +135,13 @@ var data = [{
             "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Elements%20of%20Architecture%20-%20Instructions.html"
         }, {
             "name": "Musical Instruments and Ensembles",
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20Musical%20Instruments%20and%20Ensembles.html",
-            "type": "Film"
+            "items": [{
+                "lesson": "L02",
+                "type": "Film",
+                "name": "Musical Instruments and Ensembles",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20Musical%20Instruments%20and%20Ensembles.html"
+            }]
         }, {
             "name": "Musical Instruments",
             "items": [{
@@ -151,8 +160,13 @@ var data = [{
             "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Musical%20Instruments%20-%20Instructions.html"
         }, {
             "name": "The Elements of Music",
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20The%20Elements%20of%20Music.html",
-            "type": "Films"
+            "items": [{
+                "lesson": "L02",
+                "type": "Films",
+                "name": "The Elements of Music",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20The%20Elements%20of%20Music.html"
+            }]
         }]
     }, {
         "name": "Teach One Another",
@@ -196,7 +210,6 @@ var data = [{
         }]
     }],
     "assignments": [{
-        "name": "Questions and Conversations",
         "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247390",
         "type": "Questions and Conversations"
     }],

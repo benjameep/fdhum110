@@ -11,7 +11,7 @@ function parseTopic(topic){
         return {
             lesson: lesson,
             type: type.trim(),
-            name: name ? name.trim() : type.trim(),
+            name: name && name.trim(),
             isInstructions: Boolean(isInstructions),
             link: fixLink(topic.Url)
         }
@@ -41,7 +41,8 @@ function parseModule(module){
         return obj
     },{}))
     data.assignments.forEach(assignment => {
-        if(!assignment.link && assignment.items.length == 1){
+        if((!assignment.link && assignment.items.length == 1 && !assignment.items[0].lesson) 
+            || !assignment.name){
             assignment.link = assignment.items[0].link
             assignment.type = assignment.items[0].type
             delete assignment.items
@@ -58,7 +59,7 @@ function parseTOC(toc){
         if(week.Modules.length){
             data.sections = week.Modules.map(parseModule)
             data.assignments = data.sections.shift().assignments
-            data.link = data.assignments.splice(data.assignments.findIndex(assignment => assignment.type == "Overview"),1)[0].link
+            data.link = data.assignments.splice(data.assignments.findIndex(assignment => assignment.items && assignment.items[0].type == "Overview"),1)[0].items[0].link
         } else {
             data = parseModule(week)
         }

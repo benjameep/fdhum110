@@ -58,16 +58,16 @@
                     <i class="blue circle outline icon"></i>
 
                 <div class="content">
-                    <a target="_blank" href="<%= assignment.link %>">
+                    <%- assignment.link && `<a target="_blank" href="${assignment.link}">` %>
                         <div class="header">
-                            <%= assignment.name %>
-                            <% if(assignment.items){ %>
+                            <%= assignment.name || assignment.type %>
+                            <% if(assignment.link && assignment.items){ %>
                                 <i class="info circle link icon"></i>
                             <% } %>
                         </div>
-                    </a>
+                    <%- assignment.link && `</a>` %>
                     <% if(assignment.items){ %>
-                    <div class="content">
+                    <div class="description">
                         <% assignment.items.forEach(item =>{ %>
                             <a target="_blank" class="ui tiny blue basic label" href="<%= item.link %>">
                                 <i class="<%= ({
@@ -75,7 +75,8 @@
                                     "Quiz":"edit",
                                     "Discussion":"comments",
                                     "Assignment":"pencil alternate",
-                                    "Film":"film"
+                                    "Film":"film",
+                                    "Films":"film",
                                 })[item.type]||"file" %> icon"></i>
                                 <%= item.type %>
                             </a>
