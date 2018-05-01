@@ -215,6 +215,108 @@ var data = [{
     }],
     "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Overview%20Music%20and%20Architecture.html"
 }, {
+    "name": "Lesson 03",
+    "sections": [{
+        "name": "Prepare",
+        "assignments": [{
+            "name": "The Visual Arts",
+            "items": [{
+                "lesson": "L03",
+                "type": "Film",
+                "name": "The Visual Arts",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Film%20-%20The%20Visual%20Arts.html"
+            }]
+        }, {
+            "name": "Medium in the Visual Arts",
+            "items": [{
+                "lesson": "L03",
+                "type": "Reading",
+                "name": "Medium in the Visual Arts",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Reading%20-%20Medium%20in%20the%20Visual%20Arts.html"
+            }, {
+                "lesson": "L03",
+                "type": "Quiz",
+                "name": "Medium in the Visual Arts",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161488"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Quiz%20-%20Medium%20in%20the%20Visual%20Arts%20-%20Instructions.html"
+        }, {
+            "name": "Elements of the Visual Arts",
+            "items": [{
+                "lesson": "L03",
+                "type": "Reading",
+                "name": "Elements of the Visual Arts",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Reading%20-%20Elements%20of%20the%20Visual%20Arts.html"
+            }, {
+                "lesson": "L03",
+                "type": "Quiz",
+                "name": "Elements of the Visual Arts",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161489"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Quiz%20-%20Elements%20of%20the%20Visual%20Arts%20-%20Instructions.html"
+        }, {
+            "name": "Photography",
+            "items": [{
+                "lesson": "L03",
+                "type": "Reading",
+                "name": "Photography",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Reading%20-%20Photography.html"
+            }]
+        }]
+    }, {
+        "name": "Teach One Another",
+        "assignments": [{
+            "name": "The Visual Arts",
+            "items": [{
+                "lesson": "L03",
+                "type": "Discussion",
+                "name": "The Visual Arts",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247392"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Discussion%20-%20The%20Visual%20Arts%20-%20Instructions.html"
+        }]
+    }, {
+        "name": "Ponder & Prove",
+        "assignments": [{
+            "name": "Photographs of Visual Arts",
+            "items": [{
+                "lesson": "L03",
+                "type": "Assignment",
+                "name": "Photographs of Visual Arts",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Assignment%20-%20Photographs%20of%20Visual%20Arts.html"
+            }, {
+                "lesson": "L03",
+                "type": "Assignment",
+                "name": "Photographs of Visual Arts",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=dropbox&rcode=byui_produ-149287"
+            }]
+        }, {
+            "name": "Preparation and Participation",
+            "items": [{
+                "lesson": "L03",
+                "type": "Quiz",
+                "name": "Preparation and Participation",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161505"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Quiz%20-%20Preparation%20&%20Participation%20-%20Instructions.html"
+        }]
+    }],
+    "assignments": [{
+        "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247391",
+        "type": "Questions and Conversations"
+    }],
+    "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Overview%20Visual%20Arts.html"
+}, {
     "name": "Resources",
     "assignments": [{
         "name": "Macbeth.pdf",
