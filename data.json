@@ -125,12 +125,6 @@ var data = [{
                 "name": "Elements of Architecture",
                 "isInstructions": false,
                 "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Reading%20-%20Elements%20of%20Architecture.html"
-            }, {
-                "lesson": "L02",
-                "type": "Quiz",
-                "name": "Elements of Architecture",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161471"
             }],
             "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Elements%20of%20Architecture%20-%20Instructions.html"
         }, {
@@ -150,12 +144,6 @@ var data = [{
                 "name": "Musical Instruments",
                 "isInstructions": false,
                 "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Reading%20with%20Film%20-%20Musical%20Instruments.html"
-            }, {
-                "lesson": "L02",
-                "type": "Quiz",
-                "name": "Musical Instruments",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161475"
             }],
             "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Musical%20Instruments%20-%20Instructions.html"
         }, {
@@ -185,13 +173,7 @@ var data = [{
         "name": "Ponder & Prove",
         "assignments": [{
             "name": "Observe Music",
-            "items": [{
-                "lesson": "L02",
-                "type": "Assignment",
-                "name": "Observe Music",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=dropbox&rCode=byui_produ-1007550"
-            }],
+            "items": [],
             "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Assignment%20-%20Observe%20Music%20-%20Instructions.html"
         }, {
             "name": "FDHUM 110 Plagiarism",
@@ -199,13 +181,7 @@ var data = [{
             "type": "File"
         }, {
             "name": "Preparation and Participation",
-            "items": [{
-                "lesson": "L02",
-                "type": "Quiz",
-                "name": "Preparation and Participation",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-149257"
-            }],
+            "items": [],
             "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Preparation%20&%20Participation%20-%20Instructions.html"
         }]
     }],
@@ -316,6 +292,106 @@ var data = [{
         "type": "Questions and Conversations"
     }],
     "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Overview%20Visual%20Arts.html"
+}, {
+    "name": "Lesson 04",
+    "sections": [{
+        "name": "Prepare",
+        "assignments": [{
+            "name": "Theater and Cinema",
+            "items": [{
+                "lesson": "L04",
+                "type": "Film",
+                "name": "Theater and Cinema",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Film%20-%20Theater%20and%20Cinema.html"
+            }]
+        }, {
+            "name": "Plot and Character",
+            "items": [{
+                "lesson": "L04",
+                "type": "Reading with Films",
+                "name": "Plot and Character",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Reading%20with%20Films%20-%20Plot%20and%20Character.html"
+            }]
+        }, {
+            "name": "Theater and Cinema, Plot and Character",
+            "items": [{
+                "lesson": "L04",
+                "type": "Quiz",
+                "name": "Theater and Cinema, Plot and Character",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161511"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Quiz%20-%20Theater%20and%20Cinema,%20Plot%20and%20Character%20-%20Instructions.html"
+        }, {
+            "name": "Thought and Diction",
+            "items": [{
+                "lesson": "L04",
+                "type": "Reading",
+                "name": "Thought and Diction",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Reading%20-%20Thought%20and%20Diction.html"
+            }, {
+                "lesson": "L04",
+                "type": "Quiz",
+                "name": "Thought and Diction",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161512"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Quiz%20-%20Thought%20and%20Diction%20-%20Instructions.html"
+        }, {
+            "name": "Music and Spectacle",
+            "items": [{
+                "lesson": "L04",
+                "type": "Reading",
+                "name": "Music and Spectacle",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Reading%20-%20Music%20and%20Spectacle.html"
+            }]
+        }]
+    }, {
+        "name": "Teach One Another",
+        "assignments": [{
+            "name": "Literature, Theatre and Cinema",
+            "items": [{
+                "lesson": "L04",
+                "type": "Discussion",
+                "name": "Literature, Theatre and Cinema",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247394"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Discussion%20-%20Literature,%20Theatre%20and%20Cinema%20-%20Instructions.html"
+        }]
+    }, {
+        "name": "Ponder & Prove",
+        "assignments": [{
+            "name": "Perceive the Elements of a Film",
+            "items": [{
+                "lesson": "L04",
+                "type": "Assignment",
+                "name": "Perceive the Elements of a Film",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=dropbox&rCode=byui_produ-677022"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Assignment%20-%20Perceive%20the%20Elements%20of%20a%20Film%20-%20Instructions.html"
+        }, {
+            "name": "Preparation and Participation",
+            "items": [{
+                "lesson": "L04",
+                "type": "Quiz",
+                "name": "Preparation and Participation",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rCode=byui_produ-161593"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Quiz%20-%20Preparation%20and%20Participation%20-%20Instructions.html"
+        }]
+    }],
+    "assignments": [{
+        "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247393",
+        "type": "Questions and Conversations"
+    }],
+    "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Overview%20-%20Literature,%20Theater%20and%20Cinema.html"
 }, {
     "name": "Resources",
     "assignments": [{
