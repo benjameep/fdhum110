@@ -22,277 +22,6 @@ var data = [{
         "type": "File"
     }]
 }, {
-    "name": "Lesson 01",
-    "sections": [{
-        "name": "Prepare",
-        "assignments": [{
-            "name": "The Call to Beauty",
-            "items": [{
-                "lesson": "L01",
-                "type": "Film",
-                "name": "The Call to Beauty",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Film%20-%20The%20Call%20to%20Beauty.html"
-            }, {
-                "lesson": "L01",
-                "type": "Quiz",
-                "name": "The Call to Beauty",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-158227"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Quiz%20-%20The%20Call%20to%20Beauty%20-%20Instructions.html"
-        }, {
-            "name": "We Seek After These Things",
-            "items": [{
-                "lesson": "L01",
-                "type": "Reading",
-                "name": "We Seek After These Things",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Reading%20-%20We%20Seek%20After%20These%20Things.html"
-            }, {
-                "lesson": "L01",
-                "type": "Quiz",
-                "name": "We Seek After These Things",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-158280"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Quiz%20-%20We%20Seek%20After%20These%20Things%20-%20Instructions.html"
-        }]
-    }, {
-        "name": "Teach One Another",
-        "assignments": [{
-            "name": "We Seek After These Things",
-            "items": [{
-                "lesson": "L01",
-                "type": "Discussion",
-                "name": "We Seek After These Things",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_produ-450742"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Discussion%20-%20We%20Seek%20After%20These%20Things%20-%20Instructions.html"
-        }]
-    }, {
-        "name": "Ponder & Prove",
-        "assignments": [{
-            "name": "Syllabus/Schedule",
-            "items": [{
-                "lesson": "L01",
-                "type": "Quiz",
-                "name": "Syllabus/Schedule",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-158313"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Quiz%20-%20Syllabus&Schedule%20-%20Instructions.html"
-        }, {
-            "name": "Course Introduction",
-            "items": [{
-                "lesson": "L01",
-                "type": "Preparation and Participation",
-                "name": "Course Introduction",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-158314"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Preparation%20&%20Participation%20-%20Course%20Introduction%20-%20Instructions.html"
-        }]
-    }],
-    "assignments": [{
-        "name": "Dr. Anderson Article on Nudity vs. Pornography",
-        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/Course%20Files/Dr.%20Anderson%20Article%20on%20Nudity%20vs.%20Ponography.pdf",
-        "type": "File"
-    }, {
-        "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247389",
-        "type": "Questions and Conversations"
-    }],
-    "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L01%20Overview%20Course%20Introduction.html"
-}, {
-    "name": "Lesson 02",
-    "sections": [{
-        "name": "Prepare",
-        "assignments": [{
-            "name": "Music and Architecture",
-            "items": [{
-                "lesson": "L02",
-                "type": "Film",
-                "name": "Music and Architecture",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20Music%20and%20Architecture.html"
-            }]
-        }, {
-            "name": "Elements of Architecture",
-            "items": [{
-                "lesson": "L02",
-                "type": "Reading",
-                "name": "Elements of Architecture",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Reading%20-%20Elements%20of%20Architecture.html"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Elements%20of%20Architecture%20-%20Instructions.html"
-        }, {
-            "name": "Musical Instruments and Ensembles",
-            "items": [{
-                "lesson": "L02",
-                "type": "Film",
-                "name": "Musical Instruments and Ensembles",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20Musical%20Instruments%20and%20Ensembles.html"
-            }]
-        }, {
-            "name": "Musical Instruments",
-            "items": [{
-                "lesson": "L02",
-                "type": "Reading with Film",
-                "name": "Musical Instruments",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Reading%20with%20Film%20-%20Musical%20Instruments.html"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Musical%20Instruments%20-%20Instructions.html"
-        }, {
-            "name": "The Elements of Music",
-            "items": [{
-                "lesson": "L02",
-                "type": "Films",
-                "name": "The Elements of Music",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Film%20-%20The%20Elements%20of%20Music.html"
-            }]
-        }]
-    }, {
-        "name": "Teach One Another",
-        "assignments": [{
-            "name": "Music and Architecture",
-            "items": [{
-                "lesson": "L02",
-                "type": "Discussion",
-                "name": "Music and Architecture",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_produ-450743"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Discussion%20-%20Music%20and%20Architecture%20-%20Instructions.html"
-        }]
-    }, {
-        "name": "Ponder & Prove",
-        "assignments": [{
-            "name": "Observe Music",
-            "items": [],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Assignment%20-%20Observe%20Music%20-%20Instructions.html"
-        }, {
-            "name": "FDHUM 110 Plagiarism",
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/FDHUM%20110%20Plagiarism.html",
-            "type": "File"
-        }, {
-            "name": "Preparation and Participation",
-            "items": [],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Quiz%20-%20Preparation%20&%20Participation%20-%20Instructions.html"
-        }]
-    }],
-    "assignments": [{
-        "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247390",
-        "type": "Questions and Conversations"
-    }],
-    "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L02%20Overview%20Music%20and%20Architecture.html"
-}, {
-    "name": "Lesson 03",
-    "sections": [{
-        "name": "Prepare",
-        "assignments": [{
-            "name": "The Visual Arts",
-            "items": [{
-                "lesson": "L03",
-                "type": "Film",
-                "name": "The Visual Arts",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Film%20-%20The%20Visual%20Arts.html"
-            }]
-        }, {
-            "name": "Medium in the Visual Arts",
-            "items": [{
-                "lesson": "L03",
-                "type": "Reading",
-                "name": "Medium in the Visual Arts",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Reading%20-%20Medium%20in%20the%20Visual%20Arts.html"
-            }, {
-                "lesson": "L03",
-                "type": "Quiz",
-                "name": "Medium in the Visual Arts",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161488"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Quiz%20-%20Medium%20in%20the%20Visual%20Arts%20-%20Instructions.html"
-        }, {
-            "name": "Elements of the Visual Arts",
-            "items": [{
-                "lesson": "L03",
-                "type": "Reading",
-                "name": "Elements of the Visual Arts",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Reading%20-%20Elements%20of%20the%20Visual%20Arts.html"
-            }, {
-                "lesson": "L03",
-                "type": "Quiz",
-                "name": "Elements of the Visual Arts",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161489"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Quiz%20-%20Elements%20of%20the%20Visual%20Arts%20-%20Instructions.html"
-        }, {
-            "name": "Photography",
-            "items": [{
-                "lesson": "L03",
-                "type": "Reading",
-                "name": "Photography",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Reading%20-%20Photography.html"
-            }]
-        }]
-    }, {
-        "name": "Teach One Another",
-        "assignments": [{
-            "name": "The Visual Arts",
-            "items": [{
-                "lesson": "L03",
-                "type": "Discussion",
-                "name": "The Visual Arts",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247392"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Discussion%20-%20The%20Visual%20Arts%20-%20Instructions.html"
-        }]
-    }, {
-        "name": "Ponder & Prove",
-        "assignments": [{
-            "name": "Photographs of Visual Arts",
-            "items": [{
-                "lesson": "L03",
-                "type": "Assignment",
-                "name": "Photographs of Visual Arts",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Assignment%20-%20Photographs%20of%20Visual%20Arts.html"
-            }, {
-                "lesson": "L03",
-                "type": "Assignment",
-                "name": "Photographs of Visual Arts",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=dropbox&rcode=byui_produ-149287"
-            }]
-        }, {
-            "name": "Preparation and Participation",
-            "items": [{
-                "lesson": "L03",
-                "type": "Quiz",
-                "name": "Preparation and Participation",
-                "isInstructions": false,
-                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161505"
-            }],
-            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Quiz%20-%20Preparation%20&%20Participation%20-%20Instructions.html"
-        }]
-    }],
-    "assignments": [{
-        "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247391",
-        "type": "Questions and Conversations"
-    }],
-    "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Overview%20Visual%20Arts.html"
-}, {
     "name": "Lesson 04",
     "sections": [{
         "name": "Prepare",
@@ -392,6 +121,106 @@ var data = [{
         "type": "Questions and Conversations"
     }],
     "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L04%20Overview%20-%20Literature,%20Theater%20and%20Cinema.html"
+}, {
+    "name": "Lesson 05",
+    "sections": [{
+        "name": "Prepare",
+        "assignments": [{
+            "name": "A Very Short History of the World",
+            "items": [{
+                "lesson": "L05",
+                "type": "Film",
+                "name": "A Very Short History of the World",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Film%20-%20A%20Very%20Short%20History%20of%20the%20World.html"
+            }]
+        }, {
+            "name": "Plato",
+            "items": [{
+                "lesson": "L05",
+                "type": "Reading",
+                "name": "Plato",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Reading%20-%20Plato.html"
+            }]
+        }, {
+            "name": "A Very Short History of the World and Plato",
+            "items": [{
+                "lesson": "L05",
+                "type": "Quiz",
+                "name": "A Very Short History of the World and Plato",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161522"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Quiz%20-%20A%20Very%20Short%20History%20of%20the%20World%20and%20Plato%20-%20Instructions.html"
+        }, {
+            "name": "Art Before the Renaissance",
+            "items": [{
+                "lesson": "L05",
+                "type": "Reading",
+                "name": "Art Before the Renaissance",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Reading%20-%20Art%20Before%20the%20Renaissance.html"
+            }, {
+                "lesson": "L05",
+                "type": "Quiz",
+                "name": "Art Before the Renaissance",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rcode=byui_produ-161523"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Quiz%20-%20Art%20Before%20the%20Renaissance%20-%20Instructions.html"
+        }, {
+            "name": "Notre Dame de Paris",
+            "items": [{
+                "lesson": "L05",
+                "type": "Films",
+                "name": "Notre Dame de Paris",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Films%20-%20Notre%20Dame%20de%20Paris.html"
+            }]
+        }]
+    }, {
+        "name": "Teach One Another",
+        "assignments": [{
+            "name": "Art Before the Renaissance",
+            "items": [{
+                "lesson": "L05",
+                "type": "Discussion",
+                "name": "Art Before the Renaissance",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247396"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Discussion%20-%20Art%20Before%20the%20Renaissance%20-%20Instructions.html"
+        }]
+    }, {
+        "name": "Ponder & Prove",
+        "assignments": [{
+            "name": "Perceive the Historical Context of Notre Dame Cathedral",
+            "items": [{
+                "lesson": "L05",
+                "type": "Exam",
+                "name": "Perceive the Historical Context of Notre Dame Cathedral",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rCode=byui_produ-161586"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Exam%20-%20Perceive%20the%20Historical%20Context%20of%20Notre%20Dame%20Cathedral%20-%20Instructions.html"
+        }, {
+            "name": "Preparation and Participation",
+            "items": [{
+                "lesson": "L05",
+                "type": "Quiz",
+                "name": "Preparation and Participation",
+                "isInstructions": false,
+                "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=quiz&rCode=byui_produ-161587"
+            }],
+            "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Quiz%20-%20Preparation%20&%20Participation%20-%20Instructions.html"
+        }]
+    }],
+    "assignments": [{
+        "link": "https://byui.brightspace.com/d2l/common/dialogs/quickLink/quickLink.d2l?ou=411047&type=discuss&rcode=byui_production-1247395",
+        "type": "Questions and Conversations"
+    }],
+    "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L05%20Overview%20Art%20Before%20the%20Renaissance.html"
 }, {
     "name": "Resources",
     "assignments": [{
