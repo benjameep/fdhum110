@@ -317,41 +317,6 @@ var data = [{
     }],
     "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L03%20Overview%20Visual%20Arts.html"
 }, {
-    "name": "Resources",
-    "assignments": [{
-        "name": "Macbeth.pdf",
-        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/L07%20Macbeth.pdf.html",
-        "type": "File"
-    }, {
-        "name": "Orientation to Online Learning",
-        "link": "https://content.byui.edu/integ/gen/d24f576f-d34b-47be-a466-d00bd4792fb6/0/orientation.html",
-        "type": "Link"
-    }, {
-        "name": "Library Research Guides",
-        "link": "http://libguides.byui.edu/",
-        "type": "Link"
-    }, {
-        "name": "Academic Support Center",
-        "link": "https://www.byui.edu/academic-support-centers",
-        "type": "Link"
-    }, {
-        "name": "Foundations Presentation",
-        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/Foundations%20Presentation.html",
-        "type": "File"
-    }, {
-        "name": "FDHUM 110 Plagiarism",
-        "link": "https://byui.brightspace.com/content/enforced/411047-Online.2018.Spring.FDHUM110.03/FDHUM%20110%20Plagiarism.html",
-        "type": "File"
-    }, {
-        "name": "Copyright and Source Info",
-        "link": "https://docs.google.com/spreadsheets/d/13wnO6azDpIPaLeEdWi2RAQin2sYFicyLDSIrQVZt_mA/edit?usp=sharing",
-        "type": "Link"
-    }, {
-        "name": "Student Help Guide: Getting Started with Zoom",
-        "link": "http://byu-idaho.screenstepslive.com/s/16998/m/65435/l/778026",
-        "type": "Link"
-    }]
-}, {
     "name": "Lesson 04",
     "sections": [{
         "name": "Prepare",
